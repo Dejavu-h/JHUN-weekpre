@@ -1,2 +1,2 @@
-# JHUN_study
+# JHUN_stud
 Postgraduate weekly study report
